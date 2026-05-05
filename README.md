@@ -17,7 +17,7 @@ SplitEase is a simple shared expense tracker for group outings. Add participants
 - Bootstrap 5
 
 ## Getting Started
-[Click Here]([https://split-ease-opal.vercel.app/?]) to open in your browser.
+[Click Here](https://split-ease-opal.vercel.app/?) to open in your browser.
 
 ## Deployment (Vercel)
 
